@@ -10,4 +10,6 @@ Slow and Steady walked and walked. He never, ever stopped until he came to the f
 The animals who were watching cheered so loudly for Tortoise, they woke up Hare.
 Hare stretched and yawned and began to run again, but it was too late.
 Tortoise was over the line.
-After that, Hare always reminded himself, "Don't brag about your lightning pace, for Slow and Steady won the race!"
+After that, Hare always reminded himself, "Don't brag about your lightning pace, for Slow and Steady won the race.
+
+Adding some more stuff here...
